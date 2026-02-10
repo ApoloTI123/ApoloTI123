@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42MzdrZmo5ejFnNm00d3l4M3RtbzdkbmE5NGk4ZjBjMmp6a250biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif"
+       alt="Código em movimento" width="480" />
+</p>
 
-<!--
-**ApoloTI123/ApoloTI123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" style="background-color:#000000; padding:22px; border-radius:12px;">
 
-Here are some ideas to get you started:
+  <h2 style="color:#ffffff;">👋 Olá, eu sou o Matheus</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p style="color:#ffffff; font-size:15px; line-height:1.6;">
+    🎂 Tenho <strong>29 anos</strong><br>
+    📊 Sou aluno de <strong>Ciência de Dados</strong><br><br>
+    🚀 Em constante aprendizado, com foco em<br>
+    🐍 <strong>Python</strong> &nbsp;•&nbsp; 🗄️ <strong>SQL</strong>
+  </p>
+
+</div>
